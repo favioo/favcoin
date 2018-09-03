@@ -10,7 +10,8 @@ This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurren
 
 1. Create an account on [GitHub.com](github.com)
 2. Fork [CryptoNote repository](https://github.com/cryptonotefoundation/cryptonote)
-3. Buy one or two Ubuntu-based dedicated servers (at least 2Gb of RAM) for seed nodes.
+3. Buy one or two Ubuntu-16.04-based dedicated servers (at least 2Gb of RAM) for seed nodes.
+4. Install dependencies: **sudo apt-get install build-essential git cmake libboost1.55-all-dev**
 
 
 
